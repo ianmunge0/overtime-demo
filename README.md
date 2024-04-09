@@ -2,7 +2,7 @@
 Install Metamask wallet browser extension from [here](https://metamask.io/download/)
 
 ## Running the app
-`git clone https://github.com/ianmunge0/overtime.git`
+`git clone https://github.com/ianmunge0/overtime-demo.git`
 
 `cd overtime`
 
